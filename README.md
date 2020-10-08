@@ -1,6 +1,6 @@
 # Pitch Predictions
 
-This projects attempts to classify the next pitch thrown by Jose Berrios.
+This projects attempts to classify the next pitch thrown by MLB pitcher [Jose Berrios](https://www.baseball-reference.com/players/b/berrijo01.shtml).
 - Data was gathered from MLB's Statcast via the [pybaseball](https://github.com/jldbc/pybaseball) package
 - Data cleaning is done with Pandas
 - Data visualization is done with matplotlib
